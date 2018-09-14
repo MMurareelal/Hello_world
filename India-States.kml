@@ -55,12 +55,12 @@
     <BalloonStyle>
       <bgColor>ffffff</bgColor>
       <text>
-        <![CDATA[
+
             <p><b><font color="#000000">$[NAME/displayName]:</font></b> <font color="#555555">$[NAME]</font></p>
             <p><b><font color="#000000">$[ID/displayName]:</font></b> <font color="#555555">$[ID]</font></p>
             <p><b><font color="#000000">$[LAYER/displayName]:</font></b> <font color="#555555">$[LAYER]</font></p>
           <p align="center"><font size=3 face=arial color="#0099FF">Powered by GeoCommons</font></p>
-        ]]>
+    
       </text>
     </BalloonStyle>
     </Style>
